@@ -1,11 +1,11 @@
 # BXT 技术沙龙
 
-![BXT logo](https://cloud.githubusercontent.com/assets/1231359/9621877/fa8a1402-515e-11e5-8660-d5d52b24a39c.png)
+![BXT logo](https://cloud.githubusercontent.com/assets/5830104/9923541/d91a2b1a-5d28-11e5-89c5-275ec6181aa5.png)
 
 ***
 
 > BXT 是百姓网工程师发起的技术沙龙。
-> 
+
 > “一个主题，一位讲师，一群对技术有着单纯热爱的人，畅聊一晚，聊出技术本源的乐趣。”
 
 ***
@@ -20,7 +20,7 @@
 
 ### 日程表
 
-* 2015-09-23 **（筹备中）**  
+* 2015-09-23 **（报名已截止）**  
 [[BXT-002] 《ELE.ME 是如何运行的》 by Sofish](https://github.com/baixing/BXT/issues/3)
 
 * 2015-09-01  
