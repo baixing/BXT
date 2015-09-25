@@ -20,7 +20,7 @@
 
 ### 日程表
 
-* 2015-09-23 **（报名已截止）**  
+* 2015-09-24  
 [[BXT-002] 《ELE.ME 是如何运行的》 by Sofish](https://github.com/baixing/BXT/issues/3)
 
 * 2015-09-01  
