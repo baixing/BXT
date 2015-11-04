@@ -20,6 +20,9 @@
 
 ### 日程表
 
+* 2015-11-10  
+[[BXT-003] 《移动开发协作及性能优化案例》 by 赵世婚](https://github.com/baixing/BXT/issues/4) _**（筹备中）**_
+
 * 2015-09-24  
 [[BXT-002] 《ELE.ME 是如何运行的》 by Sofish](https://github.com/baixing/BXT/issues/3)
 
