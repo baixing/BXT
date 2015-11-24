@@ -20,6 +20,9 @@
 
 ### 日程表
 
+* 2015-12-01  
+[[BXT-004] 《七牛微服务架构实践》 by 何李石](https://github.com/baixing/BXT/issues/5) _**（筹备中）**_
+
 * 2015-11-10  
 [[BXT-003] 《移动开发协作及性能优化案例》 by 赵世婚](https://github.com/baixing/BXT/issues/4)
 
