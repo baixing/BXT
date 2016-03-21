@@ -21,7 +21,7 @@
 ### 日程表
 
 * 2016-03-09  
-[[BXT-005] 《移动测试人员的打怪升级之路》 by 陈晔（Monkey）](https://github.com/baixing/BXT/issues/6) _**（报名进行中）**_
+[[BXT-005] 《移动测试人员的打怪升级之路》 by 陈晔（Monkey）](https://github.com/baixing/BXT/issues/6)
 
 * 2015-12-01  
 [[BXT-004] 《七牛微服务架构实践》 by 何李石](https://github.com/baixing/BXT/issues/5)
