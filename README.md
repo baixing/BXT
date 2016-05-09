@@ -20,17 +20,20 @@
 
 ### 日程表
 
-* 2016-03-09  
+* 2016-05-11 <br>
+[[BXT-006] 《如何看待 left-pad 事件》 by 贺师俊（Hax）](https://github.com/baixing/BXT/issues/7)
+
+* 2016-03-09 <br>
 [[BXT-005] 《移动测试人员的打怪升级之路》 by 陈晔（Monkey）](https://github.com/baixing/BXT/issues/6)
 
-* 2015-12-01  
+* 2015-12-01 <br>
 [[BXT-004] 《七牛微服务架构实践》 by 何李石](https://github.com/baixing/BXT/issues/5)
 
-* 2015-11-10  
+* 2015-11-10 <br>
 [[BXT-003] 《移动开发协作及性能优化案例》 by 赵世婚](https://github.com/baixing/BXT/issues/4)
 
-* 2015-09-24  
+* 2015-09-24 <br>
 [[BXT-002] 《ELE.ME 是如何运行的》 by Sofish](https://github.com/baixing/BXT/issues/3)
 
-* 2015-09-01  
+* 2015-09-01 <br>
 [[BXT-001] 《重拾 CSS 的乐趣》 by CSS魔法](https://github.com/baixing/BXT/issues/2)
