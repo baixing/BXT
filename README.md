@@ -20,6 +20,9 @@
 
 ### 日程表
 
+* 2016-08-11 <br>
+[[BXT-007] 《打造统一的全端团队》 by 郭达峰](https://github.com/baixing/BXT/issues/8)
+
 * 2016-05-11 <br>
 [[BXT-006] 《如何看待 left-pad 事件》 by 贺师俊（Hax）](https://github.com/baixing/BXT/issues/7)
 
