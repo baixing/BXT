@@ -20,6 +20,9 @@
 
 ### 日程表
 
+* 2016-10-25 <br>
+[[BXT-008] 《Vue 2.0：渐进式前端解决方案》 by 尤雨溪](https://github.com/baixing/BXT/issues/9)
+
 * 2016-08-11 <br>
 [[BXT-007] 《打造统一的全端团队》 by 郭达峰](https://github.com/baixing/BXT/issues/8)
 
