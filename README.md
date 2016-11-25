@@ -20,6 +20,9 @@
 
 ### 日程表
 
+* 2016-11-29 <br>
+[[BXT-009] 《使用 RxJS 抽象业务逻辑》 by 徐飞](https://github.com/baixing/BXT/issues/10)
+
 * 2016-10-25 <br>
 [[BXT-008] 《Vue 2.0：渐进式前端解决方案》 by 尤雨溪](https://github.com/baixing/BXT/issues/9)
 
