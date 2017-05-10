@@ -20,6 +20,9 @@
 
 ### 日程表
 
+* 2017-05-04 <br>
+[[BXT-010] 《全栈数据分析实战：共享单车的大数据计算》 by 周宁奕](https://github.com/baixing/BXT/issues/11)
+
 * 2016-11-29 <br>
 [[BXT-009] 《使用 RxJS 抽象业务逻辑》 by 徐飞](https://github.com/baixing/BXT/issues/10)
 
