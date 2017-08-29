@@ -20,6 +20,9 @@
 
 ### 日程表
 
+* 2017-08-08 <br>
+[[BXT-011] 《TypeScript 语言的进化》 by 吴名扬](https://github.com/baixing/BXT/issues/13)
+
 * 2017-05-04 <br>
 [[BXT-010] 《全栈数据分析实战：共享单车的大数据计算》 by 周宁奕](https://github.com/baixing/BXT/issues/11)
 
