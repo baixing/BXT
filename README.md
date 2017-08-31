@@ -20,6 +20,9 @@
 
 ### 日程表
 
+* 2017-09-07 <br>
+[[BXT-012] 《深入浅出 Kotlin》 by 何梁伟 & 张涛](https://github.com/baixing/BXT/issues/15)
+
 * 2017-08-08 <br>
 [[BXT-011] 《TypeScript 语言的进化》 by 吴名扬](https://github.com/baixing/BXT/issues/13)
 
