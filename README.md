@@ -21,6 +21,9 @@
 ### 日程表
 
 * 2017-09-07 <br>
+[[BXT-013] 《代码性能优化的几点建议》 by 赵劼](https://github.com/baixing/BXT/issues/17)
+
+* 2017-09-07 <br>
 [[BXT-012] 《深入浅出 Kotlin》 by 何梁伟 & 张涛](https://github.com/baixing/BXT/issues/15)
 
 * 2017-08-08 <br>
