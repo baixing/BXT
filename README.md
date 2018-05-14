@@ -20,6 +20,9 @@
 
 ### 日程表
 
+* 2018-05-16 <br>
+[[BXT-016]《前端生产环境部署 ES6+ 代码》by 邓钢（米粽）](https://github.com/baixing/BXT/issues/22)
+
 * 2018-04-17 <br>
 [[BXT-015]《组件CSS样式接口设计》by 顾轶灵（E0）](https://github.com/baixing/BXT/issues/20)
 
