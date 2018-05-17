@@ -23,3 +23,8 @@ npm-debug.log
 
 page/
 history/template.md
+
+/Gemfile
+/Gemfile.lock
+
+/_site
