@@ -1,5 +1,5 @@
-## Coming soon: **2019-05-29**<br>
-[《WebAssembly —— 技术变革，未来已来》by 于航](https://github.com/baixing/BXT/issues/25)
+## Coming soon: **2019-07-17**<br>
+[《工作十年，我是如何提升自己的个人影响力的》by 张鑫旭](https://github.com/baixing/BXT/issues/26)
 
 # BXT 技术沙龙
 
@@ -22,6 +22,9 @@
 ***
 
 ### 往期记录
+
+* [BXT-018] 2019-05-29 <br>
+[《WebAssembly —— 技术变革，未来已来》by 于航](history/018.md)
 
 * [BXT-017] 2018-10-17 <br>
 [《绝知此事要躬行》by 张云龙](history/017.md)
