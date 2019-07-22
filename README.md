@@ -1,5 +1,5 @@
-<!--## Coming soon: **2019-07-17**<br>
-[《谈谈如何提高个人专业影响力》by 张鑫旭](https://github.com/baixing/BXT/issues/26)-->
+<!-- ## Coming soon: **2019-07-17**<br>
+[《谈谈如何提高个人专业影响力》by 张鑫旭](https://github.com/baixing/BXT/issues/26) -->
 
 # BXT 技术沙龙
 
